@@ -8,6 +8,8 @@
 
 - 📄 [Kubernetes是什么?](https://www.redhat.com/zh/topics/containers/what-is-kubernetes)
 - 📄 [Kubernetes 指南](https://www.bookstack.cn/read/feiskyer-kubernetes-handbook-202005/README.md)
+- 📄 [Kubernetes 深入学习——入门和集群安装部署](https://www.cnblogs.com/chiangchou/p/k8s-1.html)
+- 📄 [Docker 学习入门](https://www.cnblogs.com/chiangchou/p/docker.html)
 - 📄 [K8s渗透测试etcd的利用](https://www.cdxy.me/?p=827)
 - 📄 [K8s渗透测试之kube-apiserver利用](https://xz.aliyun.com/t/9031)
 - 📄 [K0OTKIT：HACK K8S IN A K8S WAY](http://blog.nsfocus.net/k0otkithack-k8s-in-a-k8s-way/)
