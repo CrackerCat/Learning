@@ -1,9 +1,6 @@
 ## 安全
 ```
-📄: Article
-🛠: Tool
-📚: Blog
-🗂: Resource
+📄->Article   🛠->Tool   📚->Blog   🗂->Resource
 ```
 
 
