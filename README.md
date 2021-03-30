@@ -4,7 +4,7 @@
 ```
 
 
-### 云&容器&集群
+### Cloud&K8S
 
 - 📄 [Kubernetes是什么?](https://www.redhat.com/zh/topics/containers/what-is-kubernetes)
 - 📄 [Kubernetes 指南](https://www.bookstack.cn/read/feiskyer-kubernetes-handbook-202005/README.md)
@@ -19,12 +19,12 @@
 - 📄 [Kubernetes Pentest Methodology Part 3](https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3/)
 - 📚 [4ARMED's application and cloud security specialists](https://www.4armed.com/blog/)
 
-### 内网&ActiveDirectory&APT
+### Pentest&AD&APT
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
 - 📚 [Active Directory Security](https://adsecurity.org/)
 
-### Web应用
+### Web App
 
-### 代码
+### Code Review
 - 📚 [phithon's blog](https://www.leavesongs.com/)
 - 🛠 https://regex101.com/ 在线正则调试器
