@@ -19,7 +19,7 @@
 - 📄 [Kubernetes Pentest Methodology Part 3](https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3/)
 - 📚 [4ARMED's application and cloud security specialists](https://www.4armed.com/blog/)
 
-### 渗透测试(Pre)
+### Web测试
 
 ### 内网&AD&APT
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
