@@ -30,6 +30,9 @@
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
 - 🛠 https://regex101.com/ 在线正则调试器
+- 📄 [JfinalCMS-审计-清水](https://xz.aliyun.com/t/8695)
+- 📄 [金微手机商城 V0.3.7-审计-L4zily](https://xz.aliyun.com/t/9114)
+- 📄 [xdcms-3.0.1-审计-Sviivya0](https://xz.aliyun.com/t/9272)
 
 ### Java安全
 - 📚 [Java安全网-sevck](https://javasec.cn/) 
