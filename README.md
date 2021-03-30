@@ -15,7 +15,11 @@
 - 📄 [K0OTKIT：HACK K8S IN A K8S WAY](http://blog.nsfocus.net/k0otkithack-k8s-in-a-k8s-way/)
 - 📄 [kubernetes 集群渗透测试](https://blog.riskivy.com/kubernetes-%E9%9B%86%E7%BE%A4%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/)
 - 📄 [华为云CTF cloud非预期解之k8s渗透实战](https://annevi.cn/2020/12/21/华为云ctf-cloud非预期解之k8s渗透实战)
-
+- 📄 [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/resources/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions)
+- 📄 [Kubernetes Pentest Methodology Part 1](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-1)
+- 📄 [Kubernetes Pentest Methodology Part 2](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-2)
+- 📄 [Kubernetes Pentest Methodology Part 3](https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3/)
+- 
 
 ## 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
