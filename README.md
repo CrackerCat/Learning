@@ -2,7 +2,7 @@
 ```
 📄: Article
 🛠: Tool
-🖋: Blog
+📚: Blog
 🗂: Resource
 ```
 
@@ -18,5 +18,5 @@
 
 
 ## 代码审计
-- 🖋 [phithon's blog](https://www.leavesongs.com/)
+- 📚 [phithon's blog](https://www.leavesongs.com/)
 - 🛠 https://regex101.com/ 在线正则调试器
