@@ -20,6 +20,7 @@
 - 📚 [4ARMED's application and cloud security specialists](https://www.4armed.com/blog/)
 
 ### Web测试
+- 📄 [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
 
 ### 内网&AD&APT
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
