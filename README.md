@@ -28,6 +28,7 @@
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
 - 📚 [Active Directory Security](https://adsecurity.org/)
 - 📚 [@vysecurity](https://vincentyiu.com/)
+- 📚 [@xpnsec](https://blog.xpnsec.com/)
 - 📄 [red-team-tips](https://vincentyiu.com/red-team-tips)
 
 ### 代码审计
