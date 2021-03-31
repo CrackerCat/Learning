@@ -24,10 +24,11 @@
 ### Web渗透
 - 📄 [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
 
-### 内网渗透&AD&APT
+### 红蓝对抗
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
 - 📚 [Active Directory Security](https://adsecurity.org/)
-
+- 📚 [@vysecurity](https://vincentyiu.com/)
+- 📄 [red-team-tips](https://vincentyiu.com/red-team-tips)
 
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
