@@ -35,6 +35,7 @@
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
 - 🛠 https://regex101.com/ 在线正则调试器
+- 📄 [PHP代码审计手册-\xeb\xfe](https://mp.weixin.qq.com/s/ZaCSOB1R3nRCwMQd_xSbrQ)
 - 📄 [mochazz-先知系列](https://xz.aliyun.com/u/2395)
 - 📄 [水泡泡-先知系列](https://xz.aliyun.com/u/8030)
 - 📄 [phpoop-先知系列](https://xz.aliyun.com/u/4205)
