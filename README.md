@@ -30,6 +30,7 @@
 - 📚 [@vysecurity](https://vincentyiu.com/)
 - 📚 [@xpnsec](https://blog.xpnsec.com/)
 - 📄 [red-team-tips](https://vincentyiu.com/red-team-tips)
+- 📄 [记一次某行业攻防演练总结-雪诺](https://mp.weixin.qq.com/s/8SYob2S45Eg94nhfvvUPGQ)
 
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
