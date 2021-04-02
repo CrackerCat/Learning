@@ -36,6 +36,7 @@
 
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
+- 📚 [Mochazz's blog](https://mochazz.github.io/categories/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/)
 - 🛠 https://regex101.com/ 在线正则调试器
 - 📄 [PHP代码审计手册-\xeb\xfe](https://mp.weixin.qq.com/s/ZaCSOB1R3nRCwMQd_xSbrQ)
 - 📄 [代码审计知识点整理-php-7hang](https://github.com/7hang/--php)
@@ -97,6 +98,7 @@
 - 📄 [代码审计之YOUKE365-GETSHELL-licong](https://xz.aliyun.com/t/2579)
 - 📄 [某商城几处漏洞审计分析-mosin](https://xz.aliyun.com/t/1827)
 - 📄 [Cacti 1.1.27-代码审计-l024](https://xz.aliyun.com/t/1592)
+- 📄 [从0开始聊聊自动化静态代码审计工具-LoRexxar](https://paper.seebug.org/1339/)
 
 
 ### Java安全
