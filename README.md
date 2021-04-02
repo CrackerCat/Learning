@@ -24,7 +24,7 @@
 ### 应用安全
 - 📄 [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
 - 📄 [洞悉DAST、SAST、IAST—Web应用安全测试技术对比浅谈](https://www.aqniu.com/learn/46910.html)
-- 🛠 [火线～洞态IAST](https://hxsecurity.github.io/DongTaiDoc/#/) `一款交互式应用安全评估工具（被动式）`
+- 🛠 [火线-灵芝IAST](https://hxsecurity.github.io/DongTaiDoc/#/) `一款交互式应用安全评估工具（被动式）`
 
 ### 红蓝对抗
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
@@ -102,3 +102,6 @@
 ### Java安全
 - 📚 [Java安全网-sevck](https://javasec.cn/) 
 
+### 数据库安全
+- 📄 [红队PostgreSQL攻击教程](https://www.4hou.com/posts/QOyM)
+- 📄 [PostgreSQL渗透测试指南](https://www.anquanke.com/post/id/86468)
