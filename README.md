@@ -21,8 +21,9 @@
 - 📄 [Kubernetes Pentest Methodology Part 3](https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3/)
 - 📚 [4ARMED's application and cloud security specialists](https://www.4armed.com/blog/)
 
-### Web渗透
+### 应用安全
 - 📄 [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
+- 📄 [洞悉DAST、SAST、IAST—Web应用安全测试技术对比浅谈](https://www.aqniu.com/learn/46910.html)
 
 ### 红蓝对抗
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
