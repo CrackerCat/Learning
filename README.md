@@ -105,3 +105,5 @@
 ### 数据库安全
 - 📄 [红队PostgreSQL攻击教程](https://www.4hou.com/posts/QOyM)
 - 📄 [PostgreSQL渗透测试指南](https://www.anquanke.com/post/id/86468)
+- 📄 [A Penetration Tester’s Guide to PostgreSQL-@david hayter](https://medium.com/@cryptocracker99/a-penetration-testers-guide-to-postgresql-d78954921ee9)
+- 📄 [Attacking PostgreSQL Database-@vishnuraj](https://medium.com/@vishnu0002/attacking-postgresql-database-834a9a3471bc)
