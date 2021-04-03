@@ -25,7 +25,7 @@
 - 📄 [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
 - 📄 [洞悉DAST、SAST、IAST—Web应用安全测试技术对比浅谈](https://www.aqniu.com/learn/46910.html)
 - 🛠 [火线-灵芝IAST](https://hxsecurity.github.io/DongTaiDoc/#/) `一款交互式应用安全评估工具（被动式）`
-
+- 📄 [记一次 PHP-GD 绕过上传-ch1ng](https://www.ch1ng.com/blog/229.html)
 ### 红蓝对抗
 - 📚 [ATT&CK Matrix for Enterprise](https://adsecurity.org/)
 - 📚 [Active Directory Security](https://adsecurity.org/)
