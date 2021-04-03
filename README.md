@@ -33,6 +33,9 @@
 - 📚 [@xpnsec](https://blog.xpnsec.com/)
 - 📄 [red-team-tips](https://vincentyiu.com/red-team-tips)
 - 📄 [记一次某行业攻防演练总结-雪诺](https://mp.weixin.qq.com/s/8SYob2S45Eg94nhfvvUPGQ)
+- 📄 [Linux 获取 ROOT 权限后的维持小技巧-S权限](https://www.ch1ng.com/blog/196.html)
+- 📄 [内网渗透之内网穿透-ms509](https://www.ms509.com/2020/06/17/Intranet-penetration/)
+- 📄 [linux后渗透之收集登录凭证-ms50](https://www.ms509.com/2020/06/17/Collect-login-credentials/)
 
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
@@ -99,7 +102,9 @@
 - 📄 [某商城几处漏洞审计分析-mosin](https://xz.aliyun.com/t/1827)
 - 📄 [Cacti 1.1.27-代码审计-l024](https://xz.aliyun.com/t/1592)
 - 📄 [从0开始聊聊自动化静态代码审计工具-LoRexxar](https://paper.seebug.org/1339/)
-
+- 📄 [Subrion CMS 代码审计-ms509](https://www.ms509.com/2020/03/27/Subrion-Cms-Code-Audit/)
+- 📄 [DSMall-代码审计-ms509](https://www.ms509.com/2020/06/29/Dsmall-Code-Audit/)
+- 🛠 [Sql语句监控工具——MysqlLogMonitor-ms509](https://github.com/J0hnWalker/MysqlMonitor)
 
 ### Java安全
 - 📚 [Java安全网-sevck](https://javasec.cn/) 
