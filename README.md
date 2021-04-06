@@ -110,7 +110,7 @@
 
 ### Java安全
 - 📚 [Java安全网-sevck](https://javasec.cn/) 
-
+- 📄 [JAVA安全编码-枫林晚安全](https://mp.weixin.qq.com/s/p0SZN87PilFHUmENas6QEg)
 ### 数据库安全
 - 📄 [红队PostgreSQL攻击教程](https://www.4hou.com/posts/QOyM)
 - 📄 [PostgreSQL渗透测试指南](https://www.anquanke.com/post/id/86468)
