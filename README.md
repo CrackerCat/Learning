@@ -20,6 +20,8 @@
 - 📄 [Kubernetes Pentest Methodology Part 2](https://www.cyberark.com/resources/threat-research-blog/kubernetes-pentest-methodology-part-2)
 - 📄 [Kubernetes Pentest Methodology Part 3](https://securityboulevard.com/2019/11/kubernetes-pentest-methodology-part-3/)
 - 📚 [4ARMED's application and cloud security specialists](https://www.4armed.com/blog/)
+- 📄 [Serverless安全研究—Serverless概述-星云实验室](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488567&idx=1&sn=6bd22d362c85cc801b7b3588ceca3635&scene=21#wechat_redirect)
+- 📄 [Serverless安全研究—Serverless安全风险-星云实验室](https://mp.weixin.qq.com/s/rbS0_42RBiFu8UFFQW4kew) 
 
 ### 应用安全
 - 📄 [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
