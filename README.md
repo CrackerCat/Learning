@@ -111,6 +111,7 @@
 - 📄 [从0开始聊聊自动化静态代码审计工具-LoRexxar](https://paper.seebug.org/1339/)
 - 📄 [Subrion CMS 代码审计-ms509](https://www.ms509.com/2020/03/27/Subrion-Cms-Code-Audit/)
 - 📄 [DSMall-代码审计-ms509](https://www.ms509.com/2020/06/29/Dsmall-Code-Audit/)
+- 📄 [PhpStorm配置Xdebug教程-Win](https://segmentfault.com/a/1190000018961750)
 - 🛠 [Sql语句监控工具——MysqlLogMonitor-ms509](https://github.com/J0hnWalker/MysqlMonitor)
 
 ### Java安全
