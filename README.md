@@ -22,7 +22,11 @@
 - 📚 [4ARMED's application and cloud security specialists](https://www.4armed.com/blog/)
 - 📄 [Serverless安全研究—Serverless概述-星云实验室](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488567&idx=1&sn=6bd22d362c85cc801b7b3588ceca3635&scene=21#wechat_redirect)
 - 📄 [Serverless安全研究—Serverless安全风险-星云实验室](https://mp.weixin.qq.com/s/rbS0_42RBiFu8UFFQW4kew) 
-
+- 📄 [私有云安全：容器安全设计实践](https://www.freebuf.com/articles/container/254307.html)
+- 📄 [私有云安全：边界安全设计实践](https://mp.weixin.qq.com/s?__biz=MzUzNDYxOTA1NA==&mid=2247507208&idx=4&sn=6dedb3007c372c76c107ac2a02de2ad8)
+- 📄 [云安全的下半场：原生安全](https://mp.weixin.qq.com/s?__biz=MzIyODYzNTU2OA==&mid=2247488987&idx=1&sn=4a46e66c27d1335bd629e01a99e69561)
+- 📄 [青藤云安全细述：三大云安全工具（CASB、CSPM、CWPP）的使用场景](https://www.secpulse.com/archives/120010.html)
+- 📄 [云安全-AccessKey渗透中的利用](https://www.cnblogs.com/hookjoy/p/12764917.html)
 ### 应用安全
 - 📄 [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
 - 📄 [洞悉DAST、SAST、IAST—Web应用安全测试技术对比浅谈](https://www.aqniu.com/learn/46910.html)
