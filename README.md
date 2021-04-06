@@ -42,6 +42,7 @@
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
 - 📚 [Mochazz's blog](https://mochazz.github.io/categories/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/)
+- 📚 [Bypass](https://www.cnblogs.com/xiaozi/category/822203.html)
 - 🛠 https://regex101.com/ 在线正则调试器
 - 📄 [PHP代码审计手册-\xeb\xfe](https://mp.weixin.qq.com/s/ZaCSOB1R3nRCwMQd_xSbrQ)
 - 📄 [代码审计知识点整理-php-7hang](https://github.com/7hang/--php)
