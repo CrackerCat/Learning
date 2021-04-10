@@ -42,7 +42,8 @@
 - 📄 [Linux 获取 ROOT 权限后的维持小技巧-S权限](https://www.ch1ng.com/blog/196.html)
 - 📄 [内网渗透之内网穿透-ms509](https://www.ms509.com/2020/06/17/Intranet-penetration/)
 - 📄 [linux后渗透之收集登录凭证-ms50](https://www.ms509.com/2020/06/17/Collect-login-credentials/)
-
+- 📄 [全程带阻：记一次授权网络攻防演练（上）](https://www.freebuf.com/vuls/211842.html)
+- 📄 [全程带阻：记一次授权网络攻防演练（下）](https://www.freebuf.com/vuls/211847.html)
 ### 代码审计
 - 📚 [phithon's blog](https://www.leavesongs.com/)
 - 📚 [Mochazz's blog](https://mochazz.github.io/categories/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1/)
